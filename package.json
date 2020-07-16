@@ -1,0 +1,20 @@
+{
+  "name": "TelegramBOT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mohammedwazier/TelegramBOT.git",
+  "author": "mohammedwazier <m.waziruddin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "dependencies": {
+    "chance": "^1.1.6",
+    "crypto": "^1.0.1",
+    "mocha": "^8.0.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "uid": "^1.0.0",
+    "utf-8": "^2.0.0"
+  }
+}
